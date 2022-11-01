@@ -14,6 +14,7 @@
 * Navigation Controller
 * Tab Bar Controller
 * Alert
+* Map
 * LaunchScreen
 * Notification 
 
